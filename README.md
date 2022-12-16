@@ -16,6 +16,7 @@ Note: Use Python version: 3.10.8
 <details>
 <summary>Hướng dẫn</summary>
  <figure>
+ <pre>
   Để sử dụng chuột ảo bạn chỉ cần đưa ngón tay trỏ lên và di chuyển, để thực hiện lệnh nhấn chuột trái thì bạn chỉ cần đưa hai ngón tay trỏ và ngón giữa lên cùng một lúc sau đó bạn gập ngón tay trỏ xuống là được, còn nếu bạn muốn thực hiện nhấn chuột hai lần thì bạn chỉ cần kẹp hai ngón tay đó lại là được
 2.	Zoom ảnh:
 Để sử dụng zoom ảnh thì bạn chỉ đưa 2 ngón tay đầu tiên (của cả 2 bàn tay) lên sao cho xuất hiện 1 đường thẳng nối hai bản tay lại với nhau, sau đó bạn chỉ cần zoom ảnh bằng cách kéo hai bàn tay xa nhau 
@@ -42,7 +43,9 @@ Bạn thực hiện dùng trợ lý ảo bằng từ hãy. Trợ lý ảo có c�
             11…..
 8.	Chuột ảo nâng cao:
 Để xem cách sử dụng vui lòng truy cập đường link sau “”
-</figure>
+</pre>
+
+</figure> 
 </details>
 
 
